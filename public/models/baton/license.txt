@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bread Scan
+* source:	https://sketchfab.com/3d-models/bread-scan-f5ac20ab3a984cc2a5a9e4ee72567bd1
+* author:	therendercode (https://sketchfab.com/therendercode)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bread Scan" (https://sketchfab.com/3d-models/bread-scan-f5ac20ab3a984cc2a5a9e4ee72567bd1) by therendercode (https://sketchfab.com/therendercode) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
